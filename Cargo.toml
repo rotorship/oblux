@@ -2,9 +2,7 @@
 name = "oblux"
 version = "0.1.0"
 edition = "2024"
-description = "one-bit less unsigned primitives"
+description = "one-bit less unsigned integer types"
 readme = "README.md"
 repository = "https://github.com/rotorship/oblux"
 license = "MIT OR Apache-2.0"
-
-[dependencies]
